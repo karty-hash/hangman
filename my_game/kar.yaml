@@ -1,0 +1,21 @@
+---
+:chance: 6
+:rand_word: adelaide
+:rand_arr:
+- a
+- d
+- e
+- l
+- a
+- i
+- d
+- e
+:blank:
+- a
+- d
+- "-"
+- "-"
+- a
+- "-"
+- d
+- "-"
